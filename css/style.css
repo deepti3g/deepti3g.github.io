@@ -68,7 +68,7 @@ ul.nav.navbar li a:focus{
 .w3ls-hover span::before {
 	content: attr(data-letters);
 	position: absolute;
-	color: #333333;
+	color: #000;
 	left: 0;
 	overflow: hidden;
 	white-space: nowrap;
@@ -649,7 +649,8 @@ p.agile-br {
     border: none;
     box-shadow: none;
     position: absolute;
-    background: #ec407a;
+    background: #333333;
+    /* background: #ec407a; */
     width: 100%;
     z-index: 9;
 }
