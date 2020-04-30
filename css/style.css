@@ -131,7 +131,7 @@ width: 100%;
 /*-- //banner --*/  
 /*-- modal-basic --*/
 .modal{
-    background: rgba(19, 198, 245, 0.84);
+    background: #333333;
 	background-size:cover; 
 	padding: 0 !important; 
 }
