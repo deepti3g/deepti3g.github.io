@@ -33,7 +33,7 @@ body a:hover{
 }
 /*-- top-nav --*/  
 .top-nav {
-    background: #333333;
+    background:#333333;
 }
 .nav > li {
     display: inline-block;
