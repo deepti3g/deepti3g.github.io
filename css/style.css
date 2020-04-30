@@ -650,7 +650,7 @@ p.agile-br {
 .navbar-collapse {
     border: none;
     box-shadow: none;
-    position: absolute;
+    position: center;
     background:#ec407a;
     
     width: 50%;
@@ -666,7 +666,7 @@ p.agile-br {
     margin: 0.5em  0;
     font-style: sans-serif;
     font-size: 1.5em;
-    color: black;
+    color: #fff;
     font-weight: 200;
 }
 .nav > li {
