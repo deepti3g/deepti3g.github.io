@@ -653,7 +653,7 @@ p.agile-br {
     position: absolute;
     background:#ec407a;
     
-    width: 100%;
+    width: 50%;
     z-index: 9;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -664,8 +664,9 @@ p.agile-br {
     text-align: center;
     padding: 0;
     margin: 0.5em  0;
-    font-size: 1.8em;
-    color: #fff;
+    font-style: sans-serif;
+    font-size: 1.5em;
+    color: black;
     font-weight: 200;
 }
 .nav > li {
