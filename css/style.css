@@ -650,10 +650,10 @@ p.agile-br {
 .navbar-collapse {
     border: none;
     box-shadow: none;
-    position: center;
+    position: absolute;
     background:#ec407a;
     
-    width: 50%;
+    width: 100%;
     z-index: 9;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -661,6 +661,7 @@ p.agile-br {
 }
 .navbar-toggle {
     float: none;
+    border-style: double;
     text-align: center;
     padding: 0;
     margin: 0.5em  0;
