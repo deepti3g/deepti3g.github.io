@@ -50,7 +50,8 @@ ul.nav.navbar li a {
     font-family: 'Text Me One', sans-serif;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active{ 
-	color:#ec407a;
+    color:#333333; 
+	/* color:#ec407a; */
 	background:transparent;
 	outline:none;
 } 
@@ -67,7 +68,7 @@ ul.nav.navbar li a:focus{
 .w3ls-hover span::before {
 	content: attr(data-letters);
 	position: absolute;
-	color: #000;
+	color: #333333;
 	left: 0;
 	overflow: hidden;
 	white-space: nowrap;
